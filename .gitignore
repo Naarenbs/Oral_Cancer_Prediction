@@ -1,0 +1,9 @@
+.angular
+dist
+node_modules
+.env
+.venv
+.nv
+.vsc
+__pycache__
+*.pyc
